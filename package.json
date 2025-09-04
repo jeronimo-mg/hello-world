@@ -1,0 +1,12 @@
+{
+  "name": "dos-emulator",
+  "version": "1.0.0",
+  "description": "A DOS emulator using js-dos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
